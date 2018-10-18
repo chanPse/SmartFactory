@@ -12,7 +12,7 @@ namespace chanworld
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("chanworld.exe 세찬 철수 영희 이렇게 넣어주세요fkdfkdfkdfkdkfdkfkdfkdkfdkfkdfkdkfd.");
+                Console.WriteLine("chanworld.exe 세찬 철보아ㅗ랒더갸ㅓㅐㅑ얼제ㅐ더랴ㅐㅈ둘재다루재ㅜ릳ㅇ,ㅓㅈㄷㄱㅈㄷㄱㅈㄷㄱㅈㄷㄱ.");
                 return;
             
             }
