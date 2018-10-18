@@ -12,7 +12,7 @@ namespace chanworld
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("chanworld.exe 세찬 이거 .");
+                Console.WriteLine("chanworld.exe OK?.");
                 return;
             
             }
